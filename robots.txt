@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-1ty0ry.trans88.space/sitemap.xml
